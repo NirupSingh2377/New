@@ -1,17 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- testing
-=======
->>>>>>> 0ddfea25be1ecb39b2a9a78b704293d73a8496ec
 writing the second line in the same file
 agine testing by editing the third line again:
 testing for 4th line
 this is done in the new branch
 this is 2nd line from test2 branch
-<<<<<<< HEAD
-=======
- Keeping only one line
->>>>>>> test1
-=======
-
->>>>>>> 0ddfea25be1ecb39b2a9a78b704293d73a8496ec
